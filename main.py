@@ -1,0 +1,6 @@
+"""Run the Financial Research Assistant demo."""
+
+from scripts.run_demo import main
+
+if __name__ == "__main__":
+    main()
